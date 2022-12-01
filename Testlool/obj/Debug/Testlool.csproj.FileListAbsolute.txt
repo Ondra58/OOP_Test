@@ -1,0 +1,10 @@
+C:\Users\zelenyo.04\source\repos\Testlool\bin\Debug\Testlool.exe.config
+C:\Users\zelenyo.04\source\repos\Testlool\bin\Debug\Testlool.exe
+C:\Users\zelenyo.04\source\repos\Testlool\bin\Debug\Testlool.pdb
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.csprojAssemblyReference.cache
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.Form1.resources
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.Properties.Resources.resources
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.csproj.GenerateResource.cache
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.csproj.CoreCompileInputs.cache
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.exe
+C:\Users\zelenyo.04\source\repos\Testlool\obj\Debug\Testlool.pdb
